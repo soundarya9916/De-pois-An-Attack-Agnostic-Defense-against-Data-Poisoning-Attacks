@@ -10,6 +10,10 @@ Project Team Members
 
 Now a days everyone is fascinated with the self driving cars , but the company that builds these cars are facing many challenges in keeping there data safe ,that is used for model building. One of the main issue is data poisoning attacks,  where sophisticated attackers tamper with machine learning training data to produce undesirable outcomes, such vulnerabilities can cause serious risks to various security-critical domains such as self-driving cars, biometric identity recognition and computer vision. For Example, In self driving Cars, the attackers try to disrupt the Machine Learning model by adding malicious information in the training data . As a result of this the ML model reads stop sign as speed limit, then these type of misleading actions can create serious threat to a life.
 
+# Goal 
+
+Our main aim is to implement the de-pois technique (The only known common defense technique against all types of data poisoining attacks) using the MNIST dataset to determine the poisoned data samples. 
+
 # Tools
 
 - Run the code on the Google Collab . So you do not need to install any type of application . Add all the files in the google drive , then login Google Colab using the gmail account and access your saved files form the drive by providing the file path as an input .
